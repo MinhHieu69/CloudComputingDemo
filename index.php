@@ -66,7 +66,7 @@
 		<div class="container">
 			<h2>Profile</h2>
 		    <div class="card">
-			  	<img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:30%">
+			  	<img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:50%">
 			  	<div class="main">
 			    <h1>Phí Minh Hiếu</h1>
 				    <p class="title">Facebook</p>
