@@ -7,7 +7,7 @@
 <div class="container">
     <h2>Profile vjp</h2>
     <div class="card">
-        <img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:60%">
+        <img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:30%">
         <div class="main">
         <h1>Phí Minh Hiếu</h1>
             <p class="title">Tác giả, Người sáng lập Freetuts.net</p>
