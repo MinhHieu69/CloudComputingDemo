@@ -2,6 +2,7 @@
 <html>
 <body>
 	
+<title>Index</title>	
 <h1>My first PHP page</h1>
 
 <?php
