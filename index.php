@@ -1,26 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="UTF-8">
-	<title>Quang's CV</title>
-	<!-- Load font awesome -->
-	<link rel="stylesheet" href="assets/vendors/font-awesome-4.7.0/css/font-awesome.min.css">
- 
-	<!-- Load google font -->
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
- 
-	<!-- Load main stylesheet -->
-	<link rel="stylesheet" href="assets/css/style.css">
+	<title>Profile</title>
 </head>
 <body>
-	<div class="wrapper flex">
-		<div class="sidebar">
-			
-			
-		</div><!-- End .sidebar -->
-		<div class="content">
-			
-		</div><!-- End .content -->
-	</div><!-- End .wrapper -->
+<div class="container">
+    <h2>Profile vjp</h2>
+    <div class="card">
+        <img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:100%">
+        <div class="main">
+        <h1>Phí Minh Hiếu</h1>
+            <p class="title">Tác giả, Người sáng lập Freetuts.net</p>
+            <p>Lập trình viên 7 năm kinh nghiệm</p>
+            <a href="#"><i class="fa fa-dribbble"></i></a> 
+            <a href="#"><i class="fa fa-twitter"></i></a> 
+            <a href="#"><i class="fa fa-linkedin"></i></a> 
+            <a href="#"><i class="fa fa-facebook"></i></a> 
+            <p><button>Contact</button></p>
+        </div>
+    </div>
+</div>
 </body>
 </html>
