@@ -68,13 +68,9 @@
 		    <div class="card">
 			  	<img src="https://lh3.googleusercontent.com/FmitzdBYHlxUm_nCtJeSwmwvy6Z3grDFUXmz9XeDsJ4-KMAd3JbTIe5CYU2KDFcihEE" alt="John" style="width:50%">
 			  	<div class="main">
-			    <h1>Phí Minh Hiếu</h1>
+			    <h1>Minh Hiếu</h1>
 				    <p class="title">Facebook</p>
 				    <p>https://www.facebook.com/Shinnosuke69</p>
-				    <a href="#"><i class="fa fa-dribbble"></i></a> 
-				    <a href="#"><i class="fa fa-twitter"></i></a> 
-				    <a href="#"><i class="fa fa-linkedin"></i></a> 
-				    <a href="#"><i class="fa fa-facebook"></i></a> 
 				    <p><button>Contact</button></p>
 			  	</div>
 			</div>
